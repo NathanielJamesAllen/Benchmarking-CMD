@@ -1,2 +1,4 @@
+# Benchmarking-CMD
+
 1. Update documentation
-2. Make script to run battery benchmark
+2. Test script to run battery benchmark
