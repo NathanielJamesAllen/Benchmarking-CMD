@@ -1,3 +1,3 @@
 # Benchmarking-CMD
 
-1. script extra directories to make it easier
+1. benchmarks machines to test office productivity and battery life
